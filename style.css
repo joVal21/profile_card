@@ -1,0 +1,23 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  max-width: 1000px;
+}
+
+.title {
+  color: gray;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  background-color: darkgray;
+  color: black;
+  font-weight:700;
+  
+}
